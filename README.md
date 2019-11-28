@@ -5,4 +5,6 @@ square above each other and without them exceeding the grid. If one of these con
 is not met, the game stops.
 ***
 ![](https://github.com/ctestabu/Filler_game/blob/master/Screen%20Shot%202019-11-28%20at%2018.42.20.png)
-Usage : `./filler_vm -f [map] -p1 [player1] -p2 [player2]`
+Usage : 
+Run `make`
+`./filler_vm -f [map] -p1 [player1] -p2 [player2]`
